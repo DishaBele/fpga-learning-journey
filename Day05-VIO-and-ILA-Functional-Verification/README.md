@@ -28,9 +28,9 @@ VIO and ILA are built-in debugging IP cores provided by AMD Vivado. VIO allows u
 
 * `fulladder`.v
 * design_wrapper_1.v
-* `waveform.png`
-* `rtl_schematic.png`
-* `hardware_manager.png`
+* `waveform.jpg`
+* `rtl_schematic.jpg`
+* `hardware_manager.jpg`
 
 ## 📖 What I Learned
 
