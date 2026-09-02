@@ -1,0 +1,23 @@
+`timescale 1ns  / 1ps
+module Counter(
+    input clk,
+    input rst,
+    input mode,
+    output reg [7:0] y
+    );
+
+    always@(posedge clk)
+    begin
+     if(rst==1)
+        y<= 0;
+     else
+     begin 
+         if(mode==1)
+         y <= y+1;
+
+         else
+
+         y <= y-1;
+     end
+     end
+endmodule
