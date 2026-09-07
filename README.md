@@ -29,6 +29,8 @@ To build strong fundamentals in **digital design, Verilog HDL, FPGA development,
 | Day 15 | 8-Bit Up/Down Counter using Verilog HDL      |
 | Day 16 | Adding a Configurable Parameter to an IP     |
 | Day 17 | Adder/Subtractor IP Core in Xilinx Vivado    |
+| Day 18 | Sign Multiplier IP Block                     |
+| Day 19 | 4-Bit Shift Register using D Flip-Flops      |
 
 ## 🧠 Key Skills Developed
 
@@ -41,7 +43,11 @@ To build strong fundamentals in **digital design, Verilog HDL, FPGA development,
 * Vivado Block Design
 * IP Integrator
 * VIO & ILA Verification
-* Counters & Adders
+* Adders & Subtractors
+* Counters
+* Multipliers
+* Shift Registers
+* D Flip-Flops
 * Functional Verification
 * Configurable & Parameterized IP Design
 
@@ -56,7 +62,7 @@ To build strong fundamentals in **digital design, Verilog HDL, FPGA development,
 
 ## 📈 Progress
 
-**17 Days Completed ✅**
+**19 Days Completed ✅**
 
 > Learning FPGA design one day at a time — building strong fundamentals through hands-on implementation and verification.
 
